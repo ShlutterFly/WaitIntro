@@ -2,7 +2,7 @@
  This script is made for unity. You will need it when you insert a video intro and you want to jump to another scene at a certain second. Written by myself
 
 # How to use this:
-We hang this script on any object, and indicate the time in the Hierarchy
+We hang this script on any object, and indicate the time in the Inspector
 But before that, specify in the script which scene you want to go to
 
 # GIF instruction
